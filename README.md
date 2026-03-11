@@ -1,8 +1,8 @@
-# 🧠 Mental Health Hub
+#  Mental Health Hub
 
 A modern, calming, and interactive web application designed to help users track their mood, manage stress, and find a quick moment of peace. Built entirely with React, this frontend application focuses on a premium, responsive user experience utilizing glassmorphism aesthetics and interactive wellness tools.
 
-## ✨ Features
+## Features
 
 - **Personalized Dashboard:** Track your daily mood and stress levels.
 - **AI-Powered Insights:** Get immediate behavioral insights and suggestions based on your logged history.
@@ -16,7 +16,7 @@ A modern, calming, and interactive web application designed to help users track 
 - **Data Visualization:** See your mood frequency and 7-day stress trends through customized charts using `Chart.js`.
 - **Local Storage Support:** All notes, journal entries, and progress are saved securely on your local device—no backend required!
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **React 19** with Context API and Hooks
 - **Vite** for fast, optimized builds
@@ -25,7 +25,7 @@ A modern, calming, and interactive web application designed to help users track 
 - **Lucide React** for beautiful consistency in icons
 - **Vanilla CSS** with modern features like CSS variables and Backdrop Filters
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -47,6 +47,3 @@ A modern, calming, and interactive web application designed to help users track 
 4. **Open in browser:**
    Navigate to `http://localhost:5173` (or the port specified in your terminal).
 
-## 📝 License
-
-This project is licensed under the MIT License.
